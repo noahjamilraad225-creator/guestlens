@@ -1,0 +1,6 @@
+{
+  "name": "GuestLens - Souvenirs Partagés en Direct",
+  "description": "Partage instantané de souvenirs photo, diaporama live pour mariages & voyages, livre d'or audio et invitations QR code sans application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
